@@ -13,7 +13,7 @@
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--textshadow:					transparent;
 	
-	--accentcolor:					229,208,129;
+	--accentcolor:					;
 	--accentcolor2:					var(--accentcolor);
 	--mentioncolor:					var(--accentcolor);
 	--linkcolor:					var(--accentcolor);
@@ -29,7 +29,7 @@
 	--textdarker: 					125,125,125;
 	--textdarkest: 					90,90,90;
 	
-	--background:					url(https://cdn.discordapp.com/attachments/846653859462905876/1103568770179530813/343652551_562196812722639_6485933291622382965_n.png);
+	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
 	--backgroundblur:				unset;
